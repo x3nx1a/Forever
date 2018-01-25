@@ -6,7 +6,7 @@ Forever is a test to see if WebGL and ASMJS can run a quite old 3D MMORPG like F
 
 ## Live demo
 
-You can try the engine at: http://ffe.aishiro.com/test
+You can try the engine at: http://ffe.aishiro.com/neuz
 
 Currently only works on Desktop PC (Windows, Linux, Mac) because it only provides DXT compressed textures.
 Right click to rotate the camera and use the mouse wheel to move forward and backward.
